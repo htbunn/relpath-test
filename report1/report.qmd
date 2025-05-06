@@ -1,0 +1,8 @@
+---
+title: Test Report
+---
+
+```{=typst}
+#set text(font: "Amaranth")
+Testing my text.
+```

@@ -1,0 +1,4 @@
+format:
+  typst:
+    font-paths: /artifacts/.fonts
+    section-numbering: 1.1.a
